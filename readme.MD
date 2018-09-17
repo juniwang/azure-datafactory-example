@@ -1,0 +1,3 @@
+- set environment variable first, see config.py
+- setup new data factory. Update config.py, then `python set_datafactory.py`
+- Add new source storage(for new region), run `python setup_storage_account.py -g <storage account group> -n <storage account name>`

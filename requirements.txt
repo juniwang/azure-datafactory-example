@@ -1,0 +1,4 @@
+azure
+azure-mgmt-resource
+azure-mgmt-datafactory
+azure-cosmosdb-table
